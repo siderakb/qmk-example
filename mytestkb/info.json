@@ -1,8 +1,8 @@
 {
   "keyboard_name": "mytestkb",
   "url": "",
-  "manufacturer": "ziteh",
-  "maintainer": "ziteh",
+  "manufacturer": "name",
+  "maintainer": "name",
   "processor": "atmega32u4",
   "bootloader": "caterina",
   "diode_direction": "COL2ROW",

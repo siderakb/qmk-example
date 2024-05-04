@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [ziteh](https://github.com/ziteh)
+* Keyboard Maintainer: [NAME](https://github.com/NAME)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
