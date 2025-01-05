@@ -1,20 +1,20 @@
-# mytestkb
+# 0_my_kb
 
-![mytestkb](imgur.com image replace me!)
+![0_my_kb](imgur.com image replace me!)
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [NAME](https://github.com/NAME)
+* Keyboard Maintainer: [ziteh](https://github.com/ziteh)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
 Make example for this keyboard (after setting up your build environment):
 
-    make mytestkb:default
+    make 0_my_kb:default
 
 Flashing example for this keyboard:
 
-    make mytestkb:default:flash
+    make 0_my_kb:default:flash
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
